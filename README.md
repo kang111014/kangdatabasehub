@@ -12,7 +12,7 @@ Hello there, this is my personal repo.
 
 # 作業連結區
 *  ## HW1
-*  <img src="images/Screenshot 2025-11-06 025717" alt="系統示範" width="600">
+*  <img src="image/Screenshot 2025-11-06 025717.png" alt="系統示範" width="600">
 ### | Demo Video:
 - [YouTube link](https://youtu.be/utjzXJw3qaw)
 ### | Source Code:
