@@ -14,6 +14,6 @@ Hello there, this is my personal repo.
 *  ## HW1
 *  <img src="image/Screenshot 2025-11-06 025717.png" alt="系統示範" width="600">
 ### | Demo Video:
-- [YouTube link](https://youtu.be/utjzXJw3qaw)
+- [YouTube link](https://youtu.be/xV7Xr3WqCOU)
 ### | Source Code:
 - [Source Code](https://github.com/kang111014/kangdatabasehub/tree/main/hw_data)
