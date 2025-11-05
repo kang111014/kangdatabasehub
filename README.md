@@ -11,4 +11,8 @@ Hello there, this is my personal repo.
 # 自主學習筆記區
 
 # 作業連結區
-*  [作業1]()
+*  ## HW1
+### | Demo Video:
+- [YouTube link](https://youtu.be/utjzXJw3qaw)
+### | Source Code:
+- [Source Code](https://github.com/kang111014/kangdatabasehub/tree/main/hw_data)
