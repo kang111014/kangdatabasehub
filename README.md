@@ -15,4 +15,4 @@ Hello there, this is my personal repo.
 ### | Demo Video:
 - [YouTube link](https://youtu.be/utjzXJw3qaw)
 ### | Source Code:
-[Source Code](https://github.com/kang111014/kangdatabasehub/tree/main/hw_data)
+- [Source Code](https://github.com/kang111014/kangdatabasehub/tree/main/hw_data)
